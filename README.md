@@ -5,3 +5,8 @@ https://stackoverflow.com/questions/37087864/execute-a-function-when-ngfor-finis
 
 # Angular Material and Flex-Layout
 https://medium.com/letsboot/quick-start-with-angular-material-and-flex-layout-1b065aa1476c
+
+# InterView
+
+https://www.wisdomjobs.com/e-university/angular-6-interview-questions.html
+
