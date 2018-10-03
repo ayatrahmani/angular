@@ -7,7 +7,7 @@ https://stackoverflow.com/questions/37087864/execute-a-function-when-ngfor-finis
 https://medium.com/letsboot/quick-start-with-angular-material-and-flex-layout-1b065aa1476c
 
 # InterView
-
+https://www.code-sample.com/2018/01/angular-6-interview-questions-and.html
 https://www.wisdomjobs.com/e-university/angular-6-interview-questions.html
 https://www.punch.cool/community/questions-answers/engineering/ecmascript6/
 
